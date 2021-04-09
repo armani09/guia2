@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FORO TV">
+    <display-name lang="es">FORO TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210409010000 -0500" stop="20210409013000 -0500" channel="FORO TV">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210409013000 -0500" stop="20210409040000 -0500" channel="FORO TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210409040000 -0500" stop="20210409060000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210409060000 -0500" stop="20210409070000 -0500" channel="FORO TV">
+    <title lang="es">Estrictamente Personal</title>
+  </programme>
+  <programme start="20210409070000 -0500" stop="20210409100000 -0500" channel="FORO TV">
+    <title lang="es">Expreso de la Mañana</title>
+  </programme>
+  <programme start="20210409100000 -0500" stop="20210409110000 -0500" channel="FORO TV">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+  <programme start="20210409110000 -0500" stop="20210409120000 -0500" channel="FORO TV">
+    <title lang="es">Paralelo 23</title>
+  </programme>
+  <programme start="20210409120000 -0500" stop="20210409130000 -0500" channel="FORO TV">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
+  </programme>
+  <programme start="20210409130000 -0500" stop="20210409140000 -0500" channel="FORO TV">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20210409140000 -0500" stop="20210409150000 -0500" channel="FORO TV">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20210409150000 -0500" stop="20210409170000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210409170000 -0500" stop="20210409190000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210409190000 -0500" stop="20210409200000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210409200000 -0500" stop="20210409210000 -0500" channel="FORO TV">
+    <title lang="es">Hora 21</title>
+  </programme>
+  <programme start="20210409210000 -0500" stop="20210409220000 -0500" channel="FORO TV">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20210409220000 -0500" stop="20210409233000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210409233000 -0500" stop="20210410010000 -0500" channel="FORO TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210410010000 -0500" stop="20210410013000 -0500" channel="FORO TV">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210410013000 -0500" stop="20210410050000 -0500" channel="FORO TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410053000 -0500" stop="20210410070000 -0500" channel="FORO TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210410070000 -0500" stop="20210410110000 -0500" channel="FORO TV">
+    <title lang="es">Sábados de Foro</title>
+  </programme>
+  <programme start="20210410110000 -0500" stop="20210410113000 -0500" channel="FORO TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410113000 -0500" stop="20210410120000 -0500" channel="FORO TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410120000 -0500" stop="20210410123000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410123000 -0500" stop="20210410130000 -0500" channel="FORO TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410130000 -0500" stop="20210410133000 -0500" channel="FORO TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410133000 -0500" stop="20210410140000 -0500" channel="FORO TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410140000 -0500" stop="20210410143000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410143000 -0500" stop="20210410153000 -0500" channel="FORO TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410153000 -0500" stop="20210410160000 -0500" channel="FORO TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410160000 -0500" stop="20210410163000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410163000 -0500" stop="20210410170000 -0500" channel="FORO TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410170000 -0500" stop="20210410173000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410173000 -0500" stop="20210410180000 -0500" channel="FORO TV">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20210410180000 -0500" stop="20210410210000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410210000 -0500" stop="20210410220000 -0500" channel="FORO TV">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20210410220000 -0500" stop="20210410230000 -0500" channel="FORO TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410230000 -0500" stop="20210410233000 -0500" channel="FORO TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410233000 -0500" stop="20210411000000 -0500" channel="FORO TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+</tv>
