@@ -8,6 +8,10 @@
     <display-name lang="es">Zee Mundo</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DW Español">
+    <display-name lang="es">DW Español</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="FORO TV">
     <title lang="es">Las noticias</title>
   </programme>
@@ -148,5 +152,359 @@
   </programme>
   <programme start="20210410120000 -0500" stop="20210410160000 -0500" channel="Zee Mundo">
     <title lang="es">ZEE Mundo</title>
+  </programme>
+  <programme start="20210409000300 -0500" stop="20210409003000 -0500" channel="DW Español">
+    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="DW Español">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210409010000 -0500" stop="20210409011500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409011500 -0500" stop="20210409020000 -0500" channel="DW Español">
+    <title lang="es">El terror de los lobos solitarios - De individuo radical a terrorista</title>
+  </programme>
+  <programme start="20210409020000 -0500" stop="20210409020300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409020300 -0500" stop="20210409023000 -0500" channel="DW Español">
+    <title lang="es">Aquí Estoy</title>
+  </programme>
+  <programme start="20210409023000 -0500" stop="20210409030000 -0500" channel="DW Español">
+    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20210409030000 -0500" stop="20210409030300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409030300 -0500" stop="20210409033000 -0500" channel="DW Español">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210409033000 -0500" stop="20210409040000 -0500" channel="DW Español">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20210409040000 -0500" stop="20210409041500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409041500 -0500" stop="20210409050000 -0500" channel="DW Español">
+    <title lang="es">El terror de los lobos solitarios - De individuo radical a terrorista</title>
+  </programme>
+  <programme start="20210409050000 -0500" stop="20210409050300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409050300 -0500" stop="20210409053000 -0500" channel="DW Español">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210409053000 -0500" stop="20210409060000 -0500" channel="DW Español">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210409060000 -0500" stop="20210409060300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409060300 -0500" stop="20210409063000 -0500" channel="DW Español">
+    <title lang="es">Aquí Estoy</title>
+  </programme>
+  <programme start="20210409063000 -0500" stop="20210409070000 -0500" channel="DW Español">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210409070000 -0500" stop="20210409071500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409071500 -0500" stop="20210409080000 -0500" channel="DW Español">
+    <title lang="es">El terror de los lobos solitarios - De individuo radical a terrorista</title>
+  </programme>
+  <programme start="20210409080000 -0500" stop="20210409080300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409080300 -0500" stop="20210409083000 -0500" channel="DW Español">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20210409083000 -0500" stop="20210409090000 -0500" channel="DW Español">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20210409090000 -0500" stop="20210409090300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409090300 -0500" stop="20210409093000 -0500" channel="DW Español">
+    <title lang="es">Aquí Estoy</title>
+  </programme>
+  <programme start="20210409093000 -0500" stop="20210409100000 -0500" channel="DW Español">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210409100000 -0500" stop="20210409100300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409100300 -0500" stop="20210409103000 -0500" channel="DW Español">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210409103000 -0500" stop="20210409110000 -0500" channel="DW Español">
+    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20210409110000 -0500" stop="20210409111500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409111500 -0500" stop="20210409120000 -0500" channel="DW Español">
+    <title lang="es">El terror de los lobos solitarios - De individuo radical a terrorista</title>
+  </programme>
+  <programme start="20210409120000 -0500" stop="20210409123000 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409123000 -0500" stop="20210409130000 -0500" channel="DW Español">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210409130000 -0500" stop="20210409131500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409131500 -0500" stop="20210409140000 -0500" channel="DW Español">
+    <title lang="es">El terror de los lobos solitarios - De individuo radical a terrorista</title>
+  </programme>
+  <programme start="20210409140000 -0500" stop="20210409143000 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409143000 -0500" stop="20210409150000 -0500" channel="DW Español">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210409150000 -0500" stop="20210409150300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409150300 -0500" stop="20210409151500 -0500" channel="DW Español">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20210409151500 -0500" stop="20210409160000 -0500" channel="DW Español">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210409160000 -0500" stop="20210409163000 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409163000 -0500" stop="20210409170000 -0500" channel="DW Español">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210409170000 -0500" stop="20210409171500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409171500 -0500" stop="20210409173000 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210409173000 -0500" stop="20210409180000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210409180000 -0500" stop="20210409183000 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409183000 -0500" stop="20210409190000 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210409190000 -0500" stop="20210409191500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409191500 -0500" stop="20210409193000 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210409193000 -0500" stop="20210409200000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210409200000 -0500" stop="20210409201500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409201500 -0500" stop="20210409210000 -0500" channel="DW Español">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210409210000 -0500" stop="20210409210300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409210300 -0500" stop="20210409213000 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210409213000 -0500" stop="20210409220000 -0500" channel="DW Español">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210409220000 -0500" stop="20210409221500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409221500 -0500" stop="20210409223000 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210409223000 -0500" stop="20210409230000 -0500" channel="DW Español">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210409230000 -0500" stop="20210409230300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210409230300 -0500" stop="20210409231500 -0500" channel="DW Español">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210409231500 -0500" stop="20210410000000 -0500" channel="DW Español">
+    <title lang="es">Transilvania - El hermético mundo de los gábor</title>
+  </programme>
+  <programme start="20210410000300 -0500" stop="20210410003000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210410003000 -0500" stop="20210410010000 -0500" channel="DW Español">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210410011500 -0500" stop="20210410020000 -0500" channel="DW Español">
+    <title lang="es">El tesoro en las arenas del desierto - El antiguo patrimonio de Turkmenistán</title>
+  </programme>
+  <programme start="20210410020300 -0500" stop="20210410023000 -0500" channel="DW Español">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210410023000 -0500" stop="20210410030000 -0500" channel="DW Español">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210410030300 -0500" stop="20210410033000 -0500" channel="DW Español">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210410033000 -0500" stop="20210410040000 -0500" channel="DW Español">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210410041500 -0500" stop="20210410050000 -0500" channel="DW Español">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210410050300 -0500" stop="20210410051500 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210410051500 -0500" stop="20210410053000 -0500" channel="DW Español">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210410053000 -0500" stop="20210410060000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210410060000 -0500" stop="20210410060300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410060300 -0500" stop="20210410061500 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210410061500 -0500" stop="20210410063000 -0500" channel="DW Español">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210410063000 -0500" stop="20210410070000 -0500" channel="DW Español">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20210410071500 -0500" stop="20210410080000 -0500" channel="DW Español">
+    <title lang="es">Los superricos del Congo - Lujo y miseria en África Central</title>
+  </programme>
+  <programme start="20210410080300 -0500" stop="20210410083000 -0500" channel="DW Español">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210410083000 -0500" stop="20210410090000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210410090300 -0500" stop="20210410091500 -0500" channel="DW Español">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210410091500 -0500" stop="20210410093000 -0500" channel="DW Español">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210410093000 -0500" stop="20210410100000 -0500" channel="DW Español">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210410100000 -0500" stop="20210410100300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410100300 -0500" stop="20210410103000 -0500" channel="DW Español">
+    <title lang="es">Aquí Estoy</title>
+  </programme>
+  <programme start="20210410103000 -0500" stop="20210410110000 -0500" channel="DW Español">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210410110000 -0500" stop="20210410110300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410110300 -0500" stop="20210410111500 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210410111500 -0500" stop="20210410120000 -0500" channel="DW Español">
+    <title lang="es">Transilvania - El hermético mundo de los gábor</title>
+  </programme>
+  <programme start="20210410120000 -0500" stop="20210410121500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410121500 -0500" stop="20210410123000 -0500" channel="DW Español">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210410123000 -0500" stop="20210410130000 -0500" channel="DW Español">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210410130000 -0500" stop="20210410130300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410130300 -0500" stop="20210410131500 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210410131500 -0500" stop="20210410140000 -0500" channel="DW Español">
+    <title lang="es">Nuestros miedos - La investigación de un sentimiento innato</title>
+  </programme>
+  <programme start="20210410140000 -0500" stop="20210410141500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410141500 -0500" stop="20210410143000 -0500" channel="DW Español">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20210410143000 -0500" stop="20210410150000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210410150000 -0500" stop="20210410150300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410150300 -0500" stop="20210410151500 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210410151500 -0500" stop="20210410160000 -0500" channel="DW Español">
+    <title lang="es">¿Qué hace hombre al hombre? - Repensar la masculinidad</title>
+  </programme>
+  <programme start="20210410160000 -0500" stop="20210410161500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410161500 -0500" stop="20210410163000 -0500" channel="DW Español">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210410163000 -0500" stop="20210410170000 -0500" channel="DW Español">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210410173000 -0500" stop="20210410180000 -0500" channel="DW Español">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20210410180000 -0500" stop="20210410181500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410181500 -0500" stop="20210410183000 -0500" channel="DW Español">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210410183000 -0500" stop="20210410190000 -0500" channel="DW Español">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210410190000 -0500" stop="20210410191500 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410191500 -0500" stop="20210410193000 -0500" channel="DW Español">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210410193000 -0500" stop="20210410200000 -0500" channel="DW Español">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210410200000 -0500" stop="20210410200300 -0500" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210410200300 -0500" stop="20210410201500 -0500" channel="DW Español">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210410201500 -0500" stop="20210410210000 -0500" channel="DW Español">
+    <title lang="es">¿Qué hace hombre al hombre? - Repensar la masculinidad</title>
+  </programme>
+  <programme start="20210410210300 -0500" stop="20210410213000 -0500" channel="DW Español">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20210410213000 -0500" stop="20210410220000 -0500" channel="DW Español">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210410223000 -0500" stop="20210410230000 -0500" channel="DW Español">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210410230300 -0500" stop="20210410231500 -0500" channel="DW Español">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210410231500 -0500" stop="20210411000000 -0500" channel="DW Español">
+    <title lang="es">Europa en concierto</title>
   </programme>
 </tv>
