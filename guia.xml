@@ -4,6 +4,10 @@
     <display-name lang="es">FORO TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Zee Mundo">
+    <display-name lang="es">Zee Mundo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="FORO TV">
     <title lang="es">Las noticias</title>
   </programme>
@@ -11,7 +15,7 @@
     <title lang="es">Fractal</title>
   </programme>
   <programme start="20210409013000 -0500" stop="20210409040000 -0500" channel="FORO TV">
-    <title lang="es">Programa Pagado</title>
+    <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210409040000 -0500" stop="20210409060000 -0500" channel="FORO TV">
     <title lang="es">Las noticias</title>
@@ -56,19 +60,19 @@
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210409233000 -0500" stop="20210410010000 -0500" channel="FORO TV">
-    <title lang="es">Programa Pagado</title>
+    <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210410010000 -0500" stop="20210410013000 -0500" channel="FORO TV">
     <title lang="es">Fractal</title>
   </programme>
   <programme start="20210410013000 -0500" stop="20210410050000 -0500" channel="FORO TV">
-    <title lang="es">Programa Pagado</title>
+    <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="FORO TV">
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210410053000 -0500" stop="20210410070000 -0500" channel="FORO TV">
-    <title lang="es">Programa Pagado</title>
+    <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210410070000 -0500" stop="20210410110000 -0500" channel="FORO TV">
     <title lang="es">Sábados de Foro</title>
@@ -125,6 +129,24 @@
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210410233000 -0500" stop="20210411000000 -0500" channel="FORO TV">
-    <title lang="es">Programa Pagado</title>
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210409040000 -0500" stop="20210409080000 -0500" channel="Zee Mundo">
+    <title lang="es">ZEE Mundo</title>
+  </programme>
+  <programme start="20210409080000 -0500" stop="20210409120000 -0500" channel="Zee Mundo">
+    <title lang="es">ZEE Mundo</title>
+  </programme>
+  <programme start="20210409120000 -0500" stop="20210409160000 -0500" channel="Zee Mundo">
+    <title lang="es">ZEE Mundo</title>
+  </programme>
+  <programme start="20210409160000 -0500" stop="20210409200000 -0500" channel="Zee Mundo">
+    <title lang="es">ZEE Mundo</title>
+  </programme>
+  <programme start="20210409200000 -0500" stop="20210410000000 -0500" channel="Zee Mundo">
+    <title lang="es">ZEE Mundo</title>
+  </programme>
+  <programme start="20210410120000 -0500" stop="20210410160000 -0500" channel="Zee Mundo">
+    <title lang="es">ZEE Mundo</title>
   </programme>
 </tv>
