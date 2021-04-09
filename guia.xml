@@ -11,7 +11,7 @@
     <title lang="es">Fractal</title>
   </programme>
   <programme start="20210409013000 -0500" stop="20210409040000 -0500" channel="FORO TV">
-    <title lang="es">Paid Programing</title>
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20210409040000 -0500" stop="20210409060000 -0500" channel="FORO TV">
     <title lang="es">Las noticias</title>
@@ -56,19 +56,19 @@
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210409233000 -0500" stop="20210410010000 -0500" channel="FORO TV">
-    <title lang="es">Paid Programing</title>
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20210410010000 -0500" stop="20210410013000 -0500" channel="FORO TV">
     <title lang="es">Fractal</title>
   </programme>
   <programme start="20210410013000 -0500" stop="20210410050000 -0500" channel="FORO TV">
-    <title lang="es">Paid Programing</title>
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="FORO TV">
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210410053000 -0500" stop="20210410070000 -0500" channel="FORO TV">
-    <title lang="es">Paid Programing</title>
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20210410070000 -0500" stop="20210410110000 -0500" channel="FORO TV">
     <title lang="es">Sábados de Foro</title>
@@ -125,6 +125,6 @@
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210410233000 -0500" stop="20210411000000 -0500" channel="FORO TV">
-    <title lang="es">Paid Programing</title>
+    <title lang="es">Programa Pagado</title>
   </programme>
 </tv>
