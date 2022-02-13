@@ -1669,6 +1669,9 @@
   <programme start="20220213173000 -0600" stop="20220213180000 -0600" channel="DW Español">
     <title lang="es">¡Escápate</title>
   </programme>
+  <programme start="20220213180000 -0600" stop="20220213181500 -0600" channel="DW Español">
+    <title lang="es">DW Noticias</title>
+  </programme>
   <programme start="20220213181500 -0600" stop="20220213183000 -0600" channel="DW Español">
     <title lang="es">Reporteros en el Mundo</title>
   </programme>
