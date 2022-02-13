@@ -3,7 +3,6 @@
   <channel id="AZTECA UNO HD">
     <display-name lang="es">AZTECA UNO HD</display-name>
     <url>http://www.gatotv.com</url>
-	
   </channel>
   <channel id="LAS ESTRELLAS HD">
     <display-name lang="es">LAS ESTRELLAS HD</display-name>
@@ -358,12 +357,6 @@
   <programme start="20220214070000 -0600" stop="20220214080000 -0600" channel="AZTECA UNO HD">
     <title lang="es">Hechos Domingo</title>
   </programme>
-  <programme start="20220214080000 -0600" stop="20220214100000 -0600" channel="AZTECA UNO HD">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
   <programme start="20220214130000 -0600" stop="20220214133000 -0600" channel="AZTECA UNO HD">
     <title lang="es">Desfile Andrea</title>
   </programme>
@@ -615,6 +608,9 @@
   </programme>
   <programme start="20220213153000 -0600" stop="20220213160000 -0600" channel="FOROTV HD">
     <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220213170000 -0600" stop="20220213183000 -0600" channel="FOROTV HD">
+    <title lang="es">Las noticias En Vivo</title>
   </programme>
   <programme start="20220213190000 -0600" stop="20220213200000 -0600" channel="FOROTV HD">
     <title lang="es">Alebrijes, Águila o Sol</title>
@@ -10324,9 +10320,6 @@
   <programme start="20220213023000 -0600" stop="20220213050000 -0600" channel="MTV LIVE">
     <title lang="es">MTV Rewind</title>
   </programme>
-  <programme start="20220213070000 -0600" stop="20220213090000 -0600" channel="MTV LIVE">
-    <title lang="es">Rock Solid Playlist</title>
-  </programme>
   <programme start="20220213090000 -0600" stop="20220213092500 -0600" channel="MTV LIVE">
     <title lang="es">Imagine Dragons: Rocks Special</title>
   </programme>
@@ -12008,9 +12001,6 @@
   <programme start="20220212210000 -0600" stop="20220213050000 -0600" channel="Fox action">
     <title lang="es">Será Anunciado</title>
   </programme>
-  <programme start="20220213050000 -0600" stop="20220213090000 -0600" channel="Fox action">
-    <title lang="es">Será Anunciado</title>
-  </programme>
   <programme start="20220212010900 -0600" stop="20220212024100 -0600" channel="FOX LIFE">
     <title lang="es">Above Ground</title>
   </programme>
@@ -13367,9 +13357,6 @@
   </programme>
   <programme start="20220214070000 -0600" stop="20220214073000 -0600" channel="AYM SPORTS">
     <title lang="es">WBC Fights</title>
-  </programme>
-  <programme start="20220214083000 -0600" stop="20220214090000 -0600" channel="AYM SPORTS">
-    <title lang="es">AYM Fitness</title>
   </programme>
   <programme start="20220214090000 -0600" stop="20220214100000 -0600" channel="AYM SPORTS">
     <title lang="es">Sangre de Campeones</title>
