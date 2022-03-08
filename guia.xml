@@ -350,11 +350,12 @@
   <programme start="20220308231500 -0600" stop="20220308233000 -0600" channel="AZTECA UNO HD">
     <title lang="es">Himno Nacional</title>
   </programme>
-  <programme start="20220309120000 -0600" stop="20220309130000 -0600" channel="AZTECA UNO HD">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  <programme start="20220309140000 -0600" stop="20220309153000 -0600" channel="AZTECA UNO HD">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
   <programme start="20220308010000 -0600" stop="20220308030000 -0600" channel="LAS ESTRELLAS HD">
     <title lang="es">Paid Programing</title>
@@ -425,8 +426,8 @@
   <programme start="20220309000000 -0600" stop="20220309033000 -0600" channel="LAS ESTRELLAS HD">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20220309110000 -0600" stop="20220309123000 -0600" channel="LAS ESTRELLAS HD">
-    <title lang="es">¡Cuéntamelo ya! En Vivo</title>
+  <programme start="20220309133000 -0600" stop="20220309153000 -0600" channel="LAS ESTRELLAS HD">
+    <title lang="es">Alborada</title>
   </programme>
   <programme start="20220309220000 -0600" stop="20220309230000 -0600" channel="LAS ESTRELLAS HD">
     <title lang="es">Tercer Grado</title>
@@ -488,8 +489,8 @@
   <programme start="20220309000000 -0600" stop="20220309010000 -0600" channel="FOROTV HD">
     <title lang="es">Es la Hora de Opinar Repetición</title>
   </programme>
-  <programme start="20220309120000 -0600" stop="20220309130000 -0600" channel="FOROTV HD">
-    <title lang="es">Las Noticias de las 1300 En Vivo</title>
+  <programme start="20220309140000 -0600" stop="20220309150000 -0600" channel="FOROTV HD">
+    <title lang="es">A las 3 En Vivo</title>
   </programme>
   <programme start="20220309230000 -0600" stop="20220310010000 -0600" channel="FOROTV HD">
     <title lang="es">Paid Programing</title>
@@ -1003,8 +1004,8 @@
   <programme start="20220309080000 -0600" stop="20220309090000 -0600" channel="AZTECA 7 HD">
     <title lang="es">My Little Pony Pony Life</title>
   </programme>
-  <programme start="20220309120000 -0600" stop="20220309130000 -0600" channel="AZTECA 7 HD">
-    <title lang="es">Animaniacs</title>
+  <programme start="20220309140000 -0600" stop="20220309150000 -0600" channel="AZTECA 7 HD">
+    <title lang="es">Hotel Transylvania La serie</title>
   </programme>
   <programme start="20220309233000 -0600" stop="20220310000000 -0600" channel="AZTECA 7 HD">
     <title lang="es">Farmacias Similares</title>
@@ -1566,9 +1567,6 @@
   </programme>
   <programme start="20220309113000 -0600" stop="20220309120000 -0600" channel="DW Español">
     <title lang="es">Visión futuro</title>
-  </programme>
-  <programme start="20220309120000 -0600" stop="20220309120300 -0600" channel="DW Español">
-    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20220309120300 -0600" stop="20220309121500 -0600" channel="DW Español">
     <title lang="es">Reporteros en el Mundo</title>
@@ -10248,11 +10246,11 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20220309105000 -0600" stop="20220309111500 -0600" channel="BANDAMAX SD">
     <title lang="es">Trépale al norteño</title>
   </programme>
-  <programme start="20220309111500 -0600" stop="20220309130500 -0600" channel="BANDAMAX SD">
-    <title lang="es">Las imperdibles BDX</title>
-  </programme>
   <programme start="20220309130500 -0600" stop="20220309140000 -0600" channel="BANDAMAX SD">
     <title lang="es">Los Consagrados de Bandamax</title>
+  </programme>
+  <programme start="20220309143000 -0600" stop="20220309160000 -0600" channel="BANDAMAX SD">
+    <title lang="es">Buenas Banda</title>
   </programme>
   <programme start="20220309160000 -0600" stop="20220309162500 -0600" channel="BANDAMAX SD">
     <title lang="es">Regional Clasificado</title>
@@ -10392,8 +10390,8 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20220308230000 -0600" stop="20220309010000 -0600" channel="MILENIO HD">
     <title lang="es">Inova</title>
   </programme>
-  <programme start="20220309120000 -0600" stop="20220309130000 -0600" channel="MILENIO HD">
-    <title lang="es">Noticias Dany Martín</title>
+  <programme start="20220309140000 -0600" stop="20220309150000 -0600" channel="MILENIO HD">
+    <title lang="es">Milenio Noticias con Maru Loz</title>
   </programme>
   <programme start="20220308010000 -0600" stop="20220308030000 -0600" channel="MILENIO SD">
     <title lang="es">Inova</title>
@@ -10470,8 +10468,8 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20220308230000 -0600" stop="20220309010000 -0600" channel="MILENIO SD">
     <title lang="es">Inova</title>
   </programme>
-  <programme start="20220309120000 -0600" stop="20220309130000 -0600" channel="MILENIO SD">
-    <title lang="es">Noticias Dany Martín</title>
+  <programme start="20220309140000 -0600" stop="20220309150000 -0600" channel="MILENIO SD">
+    <title lang="es">Milenio Noticias con Maru Loz</title>
   </programme>
   <programme start="20220308040000 -0600" stop="20220308080000 -0600" channel="EXCELSIOR TV">
     <title lang="es">Excelsior TV</title>
@@ -10551,8 +10549,8 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20220308230000 -0600" stop="20220309000000 -0600" channel="EL FINANCIERO HD">
     <title lang="es">Al cierre con Leonardo</title>
   </programme>
-  <programme start="20220309120000 -0600" stop="20220309140000 -0600" channel="EL FINANCIERO HD">
-    <title lang="es">Bloomberg markets The close</title>
+  <programme start="20220309140000 -0600" stop="20220309150000 -0600" channel="EL FINANCIERO HD">
+    <title lang="es">Al sonar la campana con Lucero</title>
   </programme>
   <programme start="20220309220000 -0600" stop="20220309230000 -0600" channel="EL FINANCIERO HD">
     <title lang="es">El Nuevo Vecino</title>
@@ -12513,9 +12511,6 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   </programme>
   <programme start="20220309100000 -0600" stop="20220309120000 -0600" channel="AYM SPORTS">
     <title lang="es">Lucha libre</title>
-  </programme>
-  <programme start="20220309120000 -0600" stop="20220309130000 -0600" channel="AYM SPORTS">
-    <title lang="es">Hoy Fútbol</title>
   </programme>
   <programme start="20220309130000 -0600" stop="20220309140000 -0600" channel="AYM SPORTS">
     <title lang="es">R de Rudos</title>
